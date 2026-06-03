@@ -130,7 +130,9 @@ Nutrition:
 \- Fiber: 1.9 g  
 \- Salt: 0.02 g
 
-June 2 Sleep 11- 21:30(22:30)  
+June 2 
+
+Sleep 11- 21:30(22:30)  
 1\. Снеки копчені зі свинини, 110г  
 2\. Monster energy Zero sugar 500ml  
 3\. coffee 250 ml (6grams) \+ creamer 33% 35gram  
@@ -167,7 +169,14 @@ Estimated nutrition:
 
 5\. Панкреатин 10000
 
-June 3 2:30-5:00
+June 3 
+
+- Sleep start: 15:12
+- Wake up: 24:00
+- Out of bed: June 4 00:46 (это из-за лени)
+- Sleep duration: 8h 46m
+- Sleep quality: 82/100
+- Energy after waking: 85/100
 
 1\. Protein Oat Shake  
 \- Milk 2.5% 550 ml  
@@ -210,3 +219,27 @@ Nutrition:
 \- Sugars: 13.5 g
 \- Fiber: 7.2 g
 \- Salt: 5.9 g
+
+June 4 
+
+1\. Moster white ultra 500ml
+2\. Whey Protein Blend + Milk 250ml 2.5%
+Amount: 20 g
+Nutrition:
+- Calories: 80 kcal
+- Protein: 16.7 g
+- Fat: 0.7 g
+  - Saturated Fat: 0.3 g
+- Carbohydrates: 1.3 g
+  - Sugars: 0.7 g
+- Fiber: 0 g
+- Cholesterol: 13 mg
+- Sodium: 20 mg
+3\. Banana 200g
+4\.Lipobar Protein Bar Cherry  
+\- Weight: 50 g  
+\- Protein: 16.5 g  
+\- Carbohydrates: 1.7 g  
+\- Sugars: 1.5 g  
+\- Fiber: 7.9 g  
+\- Calories: \~170 kcal  
