@@ -199,4 +199,14 @@ Nutrition:
 \- Fat: 12.5 g  
 \- Carbohydrates: 22.5 g  
 9\. 03.06.2026, 09:27 — ходьба SpaceWalk 5L: 60:11, 4.85 км, 6 443 шага, средняя скорость 4.8 км/ч, основная скорость 5.0 км/ч, наклон 3, 326 ккал по приложению.
-10. carrots 200g
+10\. carrots 200g
+11\. Ratatouille Premium
+Weight: 450 g
+Nutrition:
+\- Calories: 360 kcal
+\- Protein: 5.9 g
+\- Fat: 18.0 g
+\- Carbohydrates: 34.7 g
+\- Sugars: 13.5 g
+\- Fiber: 7.2 g
+\- Salt: 5.9 g
