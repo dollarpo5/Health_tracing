@@ -170,6 +170,9 @@ Estimated nutrition:
 5\. Панкреатин 10000
 
 June 3 
+- Sleep start: 02:30
+- Wake up: 5:00
+- Out of bed: 5:00
 
 - Sleep start: 15:12
 - Wake up: 24:00
