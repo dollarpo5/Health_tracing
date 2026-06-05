@@ -222,8 +222,16 @@ Nutrition:
 \- Sugars: 13.5 g
 \- Fiber: 7.2 g
 \- Salt: 5.9 g
+12\. Croco sticks 80g
 
 June 4 
+
+- Sleep start: 18:00
+- Physical wake up: 01:20
+- Out of bed: 01:50
+- Total sleep: 7h 20m
+- Subjective quality (1-10): 75/100
+- Energy after waking (1-10): 95/100
 
 1\. Moster white ultra 500ml
 2\. Whey Protein Blend + Milk 250ml 2.5%
@@ -246,3 +254,32 @@ Nutrition:
 \- Sugars: 1.5 g  
 \- Fiber: 7.9 g  
 \- Calories: \~170 kcal  
+5\. Banana 150g
+6\. Філе Прилуцький птахокомбінат куряче в/к в/ґ, 160g 
+7\. Protein Shake (Kiwi-Banana)  
+Ingredients:  
+\- Whey Protein Professional Kiwi-Banana, 20 g  
+\- Milk 2.5%, 450 ml
+\- Creatine 5g 
+8\. Vitamion D3 + K7 1 capsule  
+9\. Premia Chicken Jerky Chips
+Weight: 180 g
+Nutrition:
+- Calories: 412 kcal
+- Protein: 82.8 g
+- Fat: 8.6 g
+  - Saturated Fat: 3.2 g
+- Carbohydrates: 0.7 g
+- Fiber: 0 g
+- Salt: 7.7 g
+10\. Ratatouille Premium
+Weight: 450 g
+11\. Grapefruit
+Weight: 250 g (edible portion)
+Nutrition:
+- Calories: 105 kcal
+- Protein: 2.0 g
+- Fat: 0.3 g
+- Carbohydrates: 26.0 g
+  - Sugars: 17.5 g
+- Fiber: 4.0 g
