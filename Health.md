@@ -283,3 +283,13 @@ Nutrition:
 - Carbohydrates: 26.0 g
   - Sugars: 17.5 g
 - Fiber: 4.0 g
+
+June 5
+
+1\. Moster white ultra 500ml
+2\. Premia Chicken Jerky Chips Amount: 20 g
+3\. Banana 440 g
+4\. Whey Protein Professional Kiwi-Banana, 41 g  
+\- Milk 2.5%, 550 ml
+\- Creatine 5g 
+5\. Філе Прилуцький птахокомбінат куряче в/к в/ґ, 178г
