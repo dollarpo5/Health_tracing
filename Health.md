@@ -303,3 +303,38 @@ June 5
   - У: 48 г
 10\. Шоколад с орехами — 45 г
 11\. Зелёный чай — 800 мл
+12\. Fit&Easy Weekend Salad 100 g
+Nutrition:
+- Calories: 15 kcal
+- Protein: 1.5 g
+- Fat: <0.5 g
+- Carbohydrates: 1.3 g
+- Fiber: 1.9 g
+13\. Абрикос 1шт
+
+June 6 
+
+- Sleep start: 18:02
+- Physical wake up: 03:08
+- Out of bed: 01:11
+- Total sleep: 9h 06m
+- Subjective quality (1-10): 95/100
+- Energy after waking (1-10): 95/100
+1\. Coffee 259ml + 50ml 33% creamer
+2\. Non-stop sugar zero 500ml
+3\. Азиатский овощной крем-суп с грибами — 800 г
+  - Калории: ~168 ккал
+  - Белки: ~8.8 г
+  - Жиры: ~1.6 г
+  - Углеводы: ~33.6 г
+4\. - Яйца куриные варёные — 4 шт.
+  - Калории: ~280 ккал
+  - Белки: ~24 г
+  - Жиры: ~20 г
+  - Углеводы: ~2 г
+5\. Coca-Cola Zero — 200 мл
+  - Калории: ~1 ккал
+  - Белки: 0 г
+  - Жиры: 0 г
+  - Углеводы: ~0 г
+6\. Black chocolate with hazelnts 7g
