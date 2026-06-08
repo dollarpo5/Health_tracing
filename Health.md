@@ -338,3 +338,55 @@ June 6
   - Жиры: 0 г
   - Углеводы: ~0 г
 6\. Black chocolate with hazelnts 7g
+7\.Fruit Protein Smoothie
+Consumed: 688 g
+Nutrition:
+- Calories: 471 kcal
+- Protein: 26.1 g
+- Fat: 12.0 g
+- Carbohydrates: 71.5 g
+8\. Non stop original 274 ml
+
+June 7
+
+- Sleep start: 19:35
+- Physical wake up: 03:33
+- Out of bed: 04:00
+- Total sleep: 7h 058m
+- Subjective quality (1-10): 85/100
+- Energy after waking (1-10): 90/100
+
+1\. Monster energy Zero sugar 500ml  
+2\. - Тунец холодного копчения — 198 г  
+  ≈ 307 ккал / Б 51.5 г / Ж 9.9 г / У 0 г
+3\. Азиатский овощной крем-суп с грибами — 400 г
+4\. Non Stop Original (with sugar) Volume: 500 ml
+5\. Light Beer Volume: 1500 ml
+6\. Banana Weight: ~90 g
+7\. Pork Loin with Soy-Ginger Sauce
+Preparation:
+Pork loin
+Soy sauce
+Garlic
+Paprika
+Spices
+Weight: 300 g  
+8\. Wheat Noodles  + Asian WOK sause 15g + кунжутное масло 15g
+Weight: 100 g dry
+9\. 1шт бутербродик с игркой и сливочным маслом
+10\. Фисташки 50 g 
+11\. Соломка 100 g
+12\. Снек Нори 5грам
+13\. Клубника 70g
+
+June 8
+
+- Sleep start: 21:20
+- Physical wake up: 04:33
+- Out of bed: 04:00
+- Subjective quality (1-10): 80/100
+- Energy after waking (1-10): 85/100
+
+1\. Coffee 500ml + creamer 20% 50gram
+2\. Banana 170g
+3\. Black chocolate with hazelnts 40g
