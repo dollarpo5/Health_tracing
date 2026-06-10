@@ -390,3 +390,191 @@ June 8
 1\. Coffee 500ml + creamer 20% 50gram
 2\. Banana 170g
 3\. Black chocolate with hazelnts 40g
+4\. Coffee + Creamer
+- Coffee: 500 ml
+- Creamer 20%: 50 g
+5\. Banana
+- Weight: 170 g
+- Calories: ~151 kcal
+- Protein: ~1.9 g
+- Fat: ~0.5 g
+- Carbohydrates: ~39 g
+6\. Kiwi
+- Weight: ~70 g
+- Calories: ~43 kcal
+- Protein: ~0.8 g
+- Fat: ~0.4 g
+- Carbohydrates: ~10 g
+7\. Cold Smoked Tuna Fillet
+- Weight: 274 g
+- Calories: ~375 kcal
+- Protein: ~63 g
+- Fat: ~13.7 g
+- Carbohydrates: 0 g
+8\. Eggs
+- Quantity: 2 pcs
+- Calories: ~140 kcal
+- Protein: ~12 g
+- Fat: ~10 g
+- Carbohydrates: ~1 g
+3\. Mixed Leaf Salad Weekend
+- Weight: 100 g
+- Calories: 15 kcal
+- Protein: 1.5 g
+- Fat: <0.5 g
+- Carbohydrates: 1.3 g
+- Fiber: 1.9 g
+9\. Corn Chips Cheese Flavor
+- Weight: 100 g
+- Calories: 472 kcal
+- Protein: 6.6 g
+- Fat: 20 g
+- Carbohydrates: 64 g
+- Fiber: 4 g
+- Salt: 1.6 g
+10\. Salted Breadsticks
+- Weight: 50-80 g
+- Calories: ~180-290 kcal
+- Protein: ~5-8 g
+- Fat: ~1-3 g
+- Carbohydrates: ~38-60 g
+11\. Asian Vegetable Cream Soup
+- Weight: 400 g
+- Calories: ~84 kcal
+- Protein: ~4.4 g
+- Fat: ~0.8 g
+- Carbohydrates: ~16.8 g
+12\. Green Tea
+- Volume: 1000 ml
+13\. Coca-Cola Zero
+- Volume: 150 ml
+- Calories: ~1 kcal
+
+June 9
+
+**Источник:** Samsung Watch / Samsung Health  
+**Период в кровати:** 20:16 – 06:21  
+**Время в кровати:** ~10 ч 05 мин  
+**Фактический сон:** ~9 ч 22 мин  
+**Пробуждения:** 43 мин / 7%
+- Subjective quality: 95/100
+- Energy after waking: 95/100
+
+#### Фазы сна
+- **REM:** 3 ч 33 мин — 35%
+- **Лёгкий сон:** 3 ч 44 мин — 38%
+- **Глубокий сон:** 2 ч 05 мин — 20%
+- **Бодрствование:** 43 мин — 7%
+
+1\. Coffee Protein Shake
+Ingredients:
+- Instant Coffee: 2 tsp (~4 g)
+- Water: 80 ml
+- Milk 2.5%: 370 ml
+- Whey Protein Professional Kiwi-Banana: 33 g
+- Creatine Monohydrate: 4 g
+Nutrition:
+- Calories: ~300 kcal
+- Protein: ~36 g
+- Fat: ~10 g
+- Carbohydrates: ~21 g
+Notes:
+- Contains caffeine from instant coffee.
+- Creatine: 4 g.
+2\. 2. Protein-Carb Shake
+Ingredients:
+- Oat flakes (Hercules): 50 g
+- Milk 2.5%: 500 ml
+- Mango Whey Protein: 33 g
+- Strawberry: 120 g
+Nutrition:
+- Calories: ~615 kcal
+- Protein: ~42 g
+- Fat: ~17 g
+- Carbohydrates: ~73 g
+- Fiber: ~7 g
+Notes:
+- Blended in blender.
+3\. Філе Прилуцький птахокомбінат куряче в/к в/ґ, 150г 
+4\. Non stop zero sugar 500ml
+5\. Corn Chips Cheese Flavor
+- Weight: 20 g
+6\. Vitamin D3 + K7 1 capsule
+7\. Морковный азиатский крем-суп — 600 г
+   - Морковь — 600 г
+   - Имбирь свежий — 20 г
+   - Чеснок — 3 зубчика (~15 г)
+   - Грибной бульонный кубик — 1 шт.
+   - Соль — по вкусу
+   - Вода — для приготовления
+
+   Примерно:
+   - Калории: ~280 ккал
+   - Белки: ~7 г
+   - Жиры: ~1.5 г
+   - Углеводы: ~65 г
+   - Клетчатка: ~18–20 г
+8\. Клубника 150г
+9\. Rice cases 20g
+
+### 2026-06-09 — Ходьба на дорожке
+
+**Источник:** SpaceWalk 5L  
+**Время отчёта:** 16:45  
+**Тип активности:** ходьба на ходовой дорожке
+
+#### Основные показатели
+- **Дистанция:** 5.06 км
+- **Время:** 60 мин 06 сек
+- **Шаги:** 6 404
+- **Калории по приложению:** 337 ккал
+
+#### Скорость
+- **Средняя скорость:** 5.1 км/ч
+- **Диапазон скорости:** 1.0–5.5 км/ч
+- **Основная рабочая скорость:** около 5.5 км/ч
+
+#### Наклон
+- **Средний наклон:** 3
+- **Диапазон наклона:** 3–3
+
+#### Заметки
+- Ровная тренировка на 1 час.
+- Основная часть пройдена на скорости около 5.5 км/ч.
+- Наклон был стабильный — 3.
+- Хороший объём по шагам и дистанции: больше 5 км за тренировку.
+- Калории лучше считать ориентировочно, так как приложение дорожки может завышать или занижать расход.
+
+June 10
+
+**Источник:** Samsung Watch / Samsung Health  
+**Период в кровати:** 20:48 – 07:26  
+**Время в кровати:** ~10 ч 38 мин  
+**Фактический сон:** ~9 ч 22 мин  
+**Пробуждения:** 1 ч 16 мин / 11%
+- Subjective quality: 95/100
+- Energy after waking: 95/100
+
+#### Фазы сна
+- **REM:** 2 ч 26 мин — 22%
+- **Лёгкий сон:** 5 ч 21 мин — 53%
+- **Глубокий сон:** 1 ч 35 мин — 14%
+- **Бодрствование:** 1 ч 16 мин — 11%
+
+1\. Coffee Protein Shake (Mango)
+Ingredients:
+- Instant Coffee: 12g
+- Water: 150 ml
+- Milk 2.5%: 455 ml
+- Whey Protein Mango: 37 g
+- Creatine Monohydrate: 5 g
+Nutrition:
+- Calories: ~355 kcal
+- Protein: ~40 g
+- Fat: ~13 g
+- Carbohydrates: ~22 g
+Notes:
+- Contains caffeine from instant coffee.
+- Creatine: 5 g.
+2\. Non-stop sugar zero 500ml
+3\. 
