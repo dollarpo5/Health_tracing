@@ -723,6 +723,34 @@ Weight 78.4kg
 1\. Moster zero 500ml
 2\. Сирок глазурований Волошкове Поле Protein з ароматом ваніліну 18% — 36 г; БЖУК на 100 г: 364.7 ккал / Б 21.9 г / Ж 22.7 г / У 18.2 г.
 3\. eggs 120g
-4\. Снеки копчені зі свинини, 125г
+4\. Снеки копчені зі свинини, 135г
 5\. White Moster Ultra 500ml
-6\. Kronenbourg 1664 Blanc 1l
+6\. Kronenbourg 1664 Blanc 2.2l
+7\. Філе Прилуцький птахокомбінат куряче в/к в/ґ, 50g 
+8\. carrot 70g
+9\. pickle 70g
+10\. чипсы + другие снеуки 100g
+11\. Самяли 40г
+12\. Куриные сердца с аеро гриля 200г
+
+June 14
+
+Weight 80.1kg
+
+1\. Coffee 750ml (3 portions 250ml each)
+2\. Colla zero sugar 500ml
+3\. Філе Прилуцький птахокомбінат куряче в/к в/ґ, 100g
+4\. carrot 70g
+5\. pickle 70g
+6\. Banana 240g
+7\. Сирок глазурований Волошкове Поле Protein з ароматом ваніліну 18% — 36 г; БЖУК на 100 г: 364.7 ккал / Б 21.9 г / Ж 22.7 г / У 18.2 г.
+8\. Млинці на молоці
+- Product: Млинці на молоці
+- Weight: 330 g
+- Calories: ~667 kcal
+- Protein: ~19.5 g
+- Fat: ~42.6 g
+- Carbohydrates: ~50 g
+- Notes:
+  - Main calorie source: fat + carbohydrates.
+  - Contains milk, eggs, wheat flour, sunflower oil, sugar, salt.
