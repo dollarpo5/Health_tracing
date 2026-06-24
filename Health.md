@@ -53,7 +53,6 @@ Nutrition:
 \- Carbohydrates: 0.0 g  
 \- Sugars: 0.0 g  
 \- Salt: 3.03 g
-
 9\. Рататуй 450 грамм  
 10\. ![][image1]
 
@@ -717,8 +716,18 @@ Weight 78.4kg
 
 June 13
 
-Weight 78.4kg
+### 2026-06-13 — Сон
+**Период в кровати:** 00:06 – 08:21  
+**Время в кровати:** ~8 ч 15 мин  
+**Фактический сон:** ~7 ч 53 мин  
+**Пробуждения:** 22 мин / 4%
+#### Фазы сна
+- **REM:** 2 ч 32 мин — 30%
+- **Лёгкий сон:** 3 ч 34 мин — 45%
+- **Глубокий сон:** 1 ч 47 мин — 21%
+- **Бодрствование:** 22 мин — 4%
 
+Weight 78.4kg
 
 1\. Moster zero 500ml
 2\. Сирок глазурований Волошкове Поле Protein з ароматом ваніліну 18% — 36 г; БЖУК на 100 г: 364.7 ккал / Б 21.9 г / Ж 22.7 г / У 18.2 г.
@@ -735,11 +744,22 @@ Weight 78.4kg
 
 June 14
 
+### 2026-06-14 — Сон
+**Период в кровати:** 00:21 – 09:09  
+**Время в кровати:** ~8 ч 48 мин  
+**Фактический сон:** ~7 ч 48 мин  
+**Пробуждения:** 1 ч / 11%
+#### Фазы сна
+- **REM:** 2 ч 14 мин — 25%
+- **Лёгкий сон:** 3 ч 26 мин — 40%
+- **Глубокий сон:** 2 ч 08 мин — 24%
+- **Бодрствование:** 1 ч — 11%
+
 Weight 80.1kg
 
 1\. Coffee 750ml (3 portions 250ml each)
 2\. Colla zero sugar 500ml
-3\. Філе Прилуцький птахокомбінат куряче в/к в/ґ, 100g
+3\. Філе Прилуцький птахокомбінат куряче в/к в/ґ, 200g
 4\. carrot 70g
 5\. pickle 70g
 6\. Banana 240g
@@ -754,3 +774,251 @@ Weight 80.1kg
 - Notes:
   - Main calorie source: fat + carbohydrates.
   - Contains milk, eggs, wheat flour, sunflower oil, sugar, salt.
+9\. Protein Shake (Kiwi-Banana)
+* Whey Protein Professional Kiwi-Banana: 44 g
+* Milk 2.5%: 450 ml
+* Creatine: 5 g.
+
+June 15 
+
+### 2026-06-15 — Сон
+**Период в кровати:** 04:18 – 09:32  
+**Время в кровати:** ~5 ч 14 мин  
+**Фактический сон:** ~4 ч 50 мин  
+**Пробуждения:** 24 мин / 7%
+#### Фазы сна
+- **REM:** 1 ч 19 мин — 25%
+- **Лёгкий сон:** 2 ч 14 мин — 44%
+- **Глубокий сон:** 1 ч 17 мин — 24%
+- **Бодрствование:** 24 мин — 7%
+
+Weight 79.5g
+
+1\. Coffee 250ml + creamer 20% 50gram
+2\. Снеки копчені зі свинини, 275г
+3\. cherry 300g
+4\. Banana 170g
+5\. Kronenbourg 1664 Blanc 500ml
+6\. King's Bridge джин-тонік, 1л
+7\. coca cola zero 500ml
+8\. Сирок глазурований Волошкове Поле Protein з ароматом ваніліну 18% — 72 г
+9\. Chio tortilas 50g
+10\.Персик інжирний, 120г
+
+June 16
+
+Weight 79.5кг
+### 2026-06-16 — Сон 
+**Период в кровати:** 20:37 – 09:03  
+**Время в кровати:** ~12 ч 26 мин  
+**Фактический сон:** ~10 ч 41 мин  
+**Пробуждения:** 1 ч 45 мин / 14%
+#### Фазы сна
+- **REM:** 2 ч 59 мин — 23%
+- **Лёгкий сон:** 4 ч 55 мин — 41%
+- **Глубокий сон:** 2 ч 47 мин — 22%
+- **Бодрствование:** 1 ч 45 мин — 14%
+
+ходьба на ходовой дорожке
+- **Дистанция:** 6.01 км
+- **Время:** 62 мин 01 сек
+- **Шаги:** 7 022
+- **Калории по приложению:** 390 ккал
+- **Наклон:** 3
+
+1\. Coffee 500ml + creamer 20% 100gram
+2\. carrot 200g
+3\. Mango — 260 g edible portion
+Calories: ~156 kcal
+Protein: ~2.1 g
+Fat: ~1.0 g
+Carbohydrates: ~39 g
+Fiber: ~4.2 g
+Notes: weight counted as clean edible mango without peel and pit.
+4\. Kiwi 160g
+5\. Cookies — 46 g
+Calories: ~227 kcal
+Protein: ~3.1 g
+Fat: ~11.0 g
+Saturated fat: ~6.0 g
+Carbohydrates: ~27.4 g
+Sugars: ~16.1 g
+Fiber: ~2.1 g
+Salt: ~0.27 g
+Notes: calculated from label values per 100 g: 493 kcal / P 6.8 g / F 24 g / C 59.5 g.
+6\. Boiled eggs — 4 pcs
+Calories: ~280 kcal
+Protein: ~24 g
+Fat: ~20 g
+Carbohydrates: ~2 g
+7\. Nori 8g
+8\. instant soup 83 gramm \+ 500ml of hot water  
+Oyakata Chicken Ramen  
+Weight: 83 g dry product  
+Prepared volume: 500 ml  
+Nutrition:  
+\- Calories: 405 kcal  
+\- Protein: 9.0 g  
+\- Fat: 20.0 g  
+\- Saturated Fat: 9.5 g  
+\- Carbohydrates: 45.5 g  
+\- Sugars: 3.0 g  
+\- Salt: 4.25 g  
+
+June 17
+
+2026-06-17 — Сон
+**Источник:** Samsung Watch / Samsung Health  
+**Период в кровати:** 01:35 – 09:11  
+**Время в кровати:** ~7 ч 36 мин  
+**Фактический сон:** ~7 ч 05 мин  
+**Пробуждения:** 31 мин / 6%
+- **REM:** 2 ч 06 мин — 27%
+- **Лёгкий сон:** 3 ч 16 мин — 45%
+- **Глубокий сон:** 1 ч 43 мин — 22%
+- **Бодрствование:** 31 мин — 6%
+
+Weight 79.7kg
+
+1\. Coffee 250ml + creamer 50ml
+2\. Cookies — 46 g
+Calories: ~227 kcal
+Protein: ~3.1 g
+Fat: ~11.0 g
+Saturated fat: ~6.0 g
+Carbohydrates: ~27.4 g
+Sugars: ~16.1 g
+Fiber: ~2.1 g
+Salt: ~0.27 g
+Notes: calculated from label values per 100 g: 493 kcal / P 6.8 g / F 24 g / C 59.5 g.
+3\. Hartwall Cocktail Mojito lime & mint — 330 ml
+Calories: ~211 kcal
+Protein: 0 g
+Fat: 0 g
+Carbohydrates: ~27.1 g
+Sugars: ~26.1 g
+Salt: ~0.07 g
+Alcohol: 5.5% vol
+Notes: calculated from label values per 100 ml: 64 kcal / C 8.2 g / sugars 7.9 g.
+4\. Алан ковбаса сирокопчена “Яловича” — 40 g
+Calories: ~178 kcal
+Protein: ~9.2 g
+Fat: ~11.6 g
+Carbohydrates: ~1.6 g
+Salt: unknown, likely high
+Notes: half of 80 g pack. Calculated from label values per 100 g: 445 kcal / P 23 g / F 29 g / C 4 g.
+5\. Снеки копчені зі свинини, 100г
+6\. Protein Shake Mango
+Ingredients:
+- Milk 2.5%: 350 ml
+- Whey Protein Mango: 30 g
+- Creatine Monohydrate: 5 g
+Estimated nutrition:
+- Calories: ~305 kcal
+- Protein: ~36 g
+- Fat: ~10 g
+- Carbohydrates: ~18 g
+Notes:
+- Creatine: 5 g.
+- Protein shake added after earlier snacks/alcohol.
+7\. Снеки копчені зі свинини — 150 g
+Nutrition:
+- Calories: ~555 kcal
+- Protein: ~105 g
+- Fat: ~15 g
+- Carbohydrates: ~0.6 g
+Notes:
+- Calculated from label values per 100 g: 370 kcal / P 70 g / F 10 g / C 0.4 g.
+- Very high-protein, but also likely high-salt processed snack.
+8\. Філе Прилуцький птахокомбінат куряче в/к в/ґ, 170г
+
+June 18
+
+Weight 78.1kg
+
+### 2026-06-18 — Сон
+**Источник:** Samsung Watch / Samsung Health  
+**Период в кровати:** 23:27 – 09:25  
+**Время в кровати:** ~9 ч 58 мин  
+**Фактический сон:** ~8 ч 58 мин  
+**Пробуждения:** 1 ч / 10%
+#### Фазы сна
+- **REM:** 2 ч 27 мин — 24%
+- **Лёгкий сон:** 4 ч 40 мин — 48%
+- **Глубокий сон:** 1 ч 51 мин — 18%
+- **Бодрствование:** 1 ч — 10%
+
+1\. Moster zero 1000ml
+2\. Mondelez “Ведмедик Барні” biscuit with banana-yogurt filling — 60 g; ~236 kcal / P ~6.6 g / F ~9.2 g / C ~32 g / sugars ~18 g / salt ~0.44 g.
+3\. Снеки копчені зі свинини — 100 g
+4\. Coffee 300ml no creamer
+5\. Сирок глазурований Волошкове Поле Protein з ароматом ваніліну 18% — 72 г
+6\. Инжирный персик 200г
+7\.  Chocolate Cantuccini — 120 g
+Calories: ~540 kcal
+Protein: ~9.4 g
+Fat: ~20.5 g
+Carbohydrates: ~79.7 g
+Sugars: ~24 g
+Salt: ~0.08 g
+
+June 19
+Weight 77.4kg
+1\. Chocolate Cantuccini — 80 g
+Calories: ~360 kcal
+Protein: ~6.2 g
+Fat: ~13.7 g
+Carbohydrates: ~53.1 g
+Sugars: ~16 g
+Salt: ~0.06 g
+2\. Кофе 250 мл
+3\. Ведмедик Барні 30 г
+4\. СВетлое пиво ~1.5л
+5\. Протеин + молоко 
+~295–310 ккал
+Б: ~35–38 г
+Ж: ~9–10 г
+У: ~17–18 г
+6\. Чипсы кукрузные 10г
+7\. Сирок глазурований Волошкове Поле Protein з ароматом ваніліну 18% — 37 г
+8\. Філе Прилуцький птахокомбінат куряче в/к в/ґ, 70г
+9\. 2. Солёная соломка 80g
+
+June 20
+Weight 78kg
+
+June 21
+Weight 78.5kg
+
+June 22
+Weight 78kg
+
+1\. Coffee 500ml + 2 tea spouns of sugar
+2\. Солёная соломка 120g
+3\. Конфета шоколадная в кондитерской глазури 40г
+4\. орурец 206г
+5\. Варёные яйца 240г
+6\. Кетчуп торчин 50г
+7\. Банан 160г
+8\. *Strawberry Mango Protein Shake — strawberry 260 g + milk 2.5% 636 ml + mango whey protein 41 g + creatine 5 g; ~575–585 kcal / P ~53–56 g / F ~18 g / C ~52–54 g / fiber ~5 g.
+
+June 23
+Weight 76.9kg
+
+1\. Coffee 500ml + 2 tea spouns of sugar
+2\. Spicy roasted almonds / “Доляція смаку” — 60 g; ~333 kcal / P ~12.6 g / F ~29.4 g / C ~4.6 g / sugars ~3.7 g / fiber ~4.4 g.
+3\. Sea salted breadsticks / “Соломка з морською сіллю” — 75 g; ~296 kcal / P ~7.5 g / F ~5.8 g / C ~52.5 g / sugars ~3.6 g / fiber ~3.2 g / salt ~3.5 g.
+4\. Kiwi 230g
+5\. banana 340g
+6\. Frozen chicken nuggets / “Нагетси заморожені” — 390 g; ~811 kcal / P ~70.2 g / F ~39 g / C ~42.9 g / sugars ~1.2 g / salt ~4.7 g.
+7\. 2 boiled eggs
+8\. Нори 5г
+9\. огурец 87г
+10\. Shake Cocktails Mojito з/б, 0,5л
+
+June 24
+Weight 77.8kg
+
+1\. White monster 500lm
+2\. Sea salted breadsticks / “Соломка з морською сіллю” — 15 g
+10\.
