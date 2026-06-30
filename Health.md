@@ -1021,4 +1021,73 @@ Weight 77.8kg
 
 1\. White monster 500lm
 2\. Sea salted breadsticks / “Соломка з морською сіллю” — 15 g
-10\.
+3\. Маринованные шампиньйоны 180г
+3\. морковка 180г
+3\. Пепси вышня нуль цукру 1л
+3\. 2 литра светлого пива
+3\. Chicken hearts in soy-ginger-garlic sauce, air fryer — 500 g raw hearts; ~780–850 kcal / P ~78–85 g / F ~45–55 g / C ~3–8 g / salt high, depends on soy sauce.
+- Zig zag frozen potato wedges — ~100 g; ~150 kcal / P ~2.4 g / F ~4.4 g / C ~24 g / fiber ~2.4 g.
+- Garden greens mix — ~150 g; ~45–60 kcal / P ~4–5 g / F ~0.5–1 g / C ~8–12 g / fiber ~4–6 g; notes: mixed dill, green onion, salad leaves and other garden greens.
+
+June 25
+Weight 78.4kg
+
+- White monster 1000lm
+- sausages “Фітнес” — 225 g pack; ~441 kcal / P ~26.4 g / F ~33.8 g / C ~7.9 g / sugars ~4.5 g / salt ~4.5 g.
+- Sea salted breadsticks / “Соломка з морською сіллю” — 200 g pack; ~790 kcal / P ~20 g / F ~15.4 g / C ~140 g / sugars ~9.6 g / fiber ~8.6 g / salt ~9.3 g.
+- Pickled cucumbers with chili ketchup — 217 g drained weight; ~95 kcal / P ~0.7 g / F ~0.4 g / C ~21.0 g / sugars ~18.2 g / salt ~3.7 g.
+- черешня 300г
+- морковка 200г
+- премия рататуй 450г
+- Salted cashews / “Кеш’ю з морською сіллю” — 70 g; ~441 kcal / P ~13.3 g / F ~35.7 g / C ~14.7 g / sugars ~4.8 g / fiber ~2.3 g / salt ~1.4 g.
+
+June 26
+Weight 78.5kg
+
+- White monster 1000lm
+- 4 boiled eggs 
+- черешня 470г
+- Croco sticks 80g
+- огурец 170г
+- Garden greens mix — ~250 g; notes: mixed dill, green onion, salad leaves and other garden greens.
+- sausages “Фітнес” — 225 g pack; ~441 kcal / P ~26.4 g / F ~33.8 g / C ~7.9 g / sugars ~4.5 g / salt ~4.5 g.
+
+June 27
+Weight 77.5kg
+
+- Морковка 300г
+- White monster 500lm
+- Chicken breast fillet — 300 g; marinated (soy sauce, teriyaki, smoked paprika, paprika, garlic, fresh ginger); ~390 kcal / P ~70 g / F ~5.5 g / C ~10 g.
+- Огурец 150г
+- Protein shake — 300 g milk (2.5%), 20 g whey protein (kiwi-banana flavor), 5 g creatine, 3 tsp instant coffee; ~240 kcal / P ~25 g / F ~8.5 g / C ~17 g.
+- Lavash Kyivkhlib Takolini Chessy — 1 pack (120 g); ~394 kcal / P 13.2 g / F 5.4 g / C 70.8 g.
+
+June 28
+Weight 76.8kg
+
+- Banana 300g
+- Салат хрупкий 130
+- Морковка 220
+- Овсянка 100
+- 2 яйца в аерогриле
+- Milino Protein Snack Milk 16% Protein, cocoa — 1 bar, ~40 g; ~150–170 kcal / P ~6.4 g / F ~8–11 g / C ~12–17 g; notes: milk dessert/protein snack with milk 35%, eggs, wheat flour, palm/vegetable fat, sweeteners maltitol/erythritol, milk protein concentrate 9.8%; estimated macros, exact calories need nutrition table.
+- Thick yogurt 1.6% fat — 300 g; 147 kcal / P 12 g / F 4.8 g / C 14.1 g / sugars 14.1 g / salt 0.3 g.
+
+June 29
+Weight 77kg (после забора крови на анализы)
+
+- Banana 300g
+- Monster Energy Zero sugar 1000ml
+- Балик Ситий двір Касло с/к в/ґ, 160г ( Харчова цінність на 100 г Енергетична цінність (кКал/кДЖ)138/580 Білки (г)30 Жири (г) 1.8Вуглеводи (г)0.5)
+- Lavash Kyivkhlib Takolini Chessy — 1 pack (120 g); ~394 kcal / P 13.2 g / F 5.4 g / C 70.8 g.
+- апельсин 200гр
+- Шинка Алан Куряча в/к в/ґ, 100г (Харчова цінність на 100 г Енергетична цінність (кКал/кДЖ) 94/398 Білки (г) 19 Жири (г) 1.1 Вуглеводи (г) 2)
+- Dijo tomato tortilla / “Тортилья Dijo томатна” — 125 g; ~371 kcal / P ~11.5 g / F ~7.8 g / C ~62.5 g / sugars ~4.3 g / salt ~1.5 g.
+- carrot 150g
+- Protein shake — protein milk 0.5% 500 ml + Whey Protein Professional Kiwi-Banana 20 g + creatine 5 g; ~282 kcal / P ~37.2 g / F ~3.6 g / C ~25.0 g / sugars ~24.8 g / salt ~0.8 g.
+
+June 29
+Weight 77.5kg
+
+- Banana 120g
+- June 30 — овсянка 100 г, киви 260 г, 2 яйца, томатный лаваш 125 г, печенье Roshen к чаю/кофе 33 г, апельсин 166 г, морковь 100 г, куриная шинка 100 г — ~1435 kcal / P ~66 g / F ~31 g / C ~227 g.
